@@ -1,2 +1,2 @@
 # Programming-Practice
-Practice problems for competitive programming practice 
+Practice problems for competitive programming.
